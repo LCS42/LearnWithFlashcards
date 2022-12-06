@@ -9,7 +9,7 @@
   {"CardName" : "Blue", "CardIcon" : "🐳", "FlashcardImg" : "Asset 3.jpg", "CardLink" : "https://www.pbs.org/parents" },
   {"CardName" : "Purple", "CardIcon" : "🍇", "FlashcardImg" : "Asset 6.jpg", "CardLink" : "https://www.pbs.org/parents" },
   {"CardName" : "Black", "CardIcon" : "🐈‍⬛", "FlashcardImg" : "Asset 8.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Red", "CardIcon" : "🐇", "FlashcardImg" : "Asset 7.jpg", "CardLink" : "https://www.pbs.org/parents" },
+  {"CardName" : "Red", "CardIcon" : "🐇", "FlashcardImg" : "Asset 7.jpg", "CardLink" : "https://www.pbs.org/parents" }
 
   ],
   "status" : "OK"
