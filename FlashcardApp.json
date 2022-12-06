@@ -2,14 +2,14 @@
   "LearnWithFlashcards":
 
   [
-  {"CardName": "Red", "CardIcon" : "🚒", "FlashcardImg" : "Asset 2.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Orange", "CardIcon" : "🥕", "FlashcardImg" : "Asset 5.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Yellow", "CardIcon" : "🚌", "FlashcardImg" : "Asset 4.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Green", "CardIcon" : "🐢", "FlashcardImg" : "Asset 1.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Blue", "CardIcon" : "🐳", "FlashcardImg" : "Asset 3.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Purple", "CardIcon" : "🍇", "FlashcardImg" : "Asset 6.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Black", "CardIcon" : "🐈‍⬛", "FlashcardImg" : "Asset 8.jpg", "CardLink" : "https://www.pbs.org/parents" },
-  {"CardName" : "Red", "CardIcon" : "🐇", "FlashcardImg" : "Asset 7.jpg", "CardLink" : "https://www.pbs.org/parents" }
+  {"CardName": "Red", "CardIcon" : "🚒", "FlashcardImg" : "Asset 2.jpg", "CardLink" : "https://www.pbs.org/parents", ", ColorLink" : "https://www.tinytap.com/activities/g3rhx/play/lesson-1-red-learning-colors" },
+  {"CardName" : "Orange", "CardIcon" : "🥕", "FlashcardImg" : "Asset 5.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3gxx/play/colors-orange-1"},
+  {"CardName" : "Yellow", "CardIcon" : "🚌", "FlashcardImg" : "Asset 4.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3rg8/play/yellow-learning-colors" },
+  {"CardName" : "Green", "CardIcon" : "🐢", "FlashcardImg" : "Asset 1.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3rcy/play/green-learning-colors" },
+  {"CardName" : "Blue", "CardIcon" : "🐳", "FlashcardImg" : "Asset 3.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3rgh/play/blue-learning-colors-in-english" },
+  {"CardName" : "Purple", "CardIcon" : "🍇", "FlashcardImg" : "Asset 6.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3rh6/play/purple-learning-colors" },
+  {"CardName" : "Black", "CardIcon" : "🐈‍⬛", "FlashcardImg" : "Asset 8.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3s2t/play/black-learning-colors" },
+  {"CardName" : "Red", "CardIcon" : "🐇", "FlashcardImg" : "Asset 7.jpg", "CardLink" : "https://www.pbs.org/parents", "ColorLink" : "https://www.tinytap.com/activities/g3swu/play/white-learning-colors" }
 
   ],
   "status" : "OK"
